@@ -28,7 +28,7 @@ PDF QA là một dự án dựa trên Python được thiết kế để tạo �
    - Với các câu hỏi không có trong tài liệu liên quan, mô hình sẽ sinh ra câu trả lời dựa trên kiến thức của chính nó.
    - Prompt :
      ```bash
-     Bạn sẽ trả lời câu hỏi của người dùng dựa trên nội dung và lịch sử trò chuyện sau: 
+     Bạn sẽ trả lời câu hỏi của người dùng dựa trên nội dung sau: 
      Thông tin:
      {context}.
 
