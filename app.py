@@ -213,7 +213,7 @@ async def on_chat_start():
         
    
     template = """
-    Bạn sẽ trả lời câu hỏi của người dùng dựa trên nội dung và lịch sử trò chuyện sau: 
+    Bạn sẽ trả lời câu hỏi của người dùng dựa trên nội dung sau: 
     Thông tin:
     {context}.
 
