@@ -29,16 +29,16 @@ PDF QA là một dự án dựa trên Python được thiết kế để tạo �
    - Prompt :
      ```bash
      Bạn sẽ trả lời câu hỏi của người dùng dựa trên nội dung và lịch sử trò chuyện sau: 
-    Thông tin:
-    {context}.
+     Thông tin:
+     {context}.
 
-    Nếu không tìm thấy thông tin phù hợp hãy:
-    - Thông báo cho người dùng biết bạn không tìm thấy thông tin
-    - Đưa ra câu trả lời dựa trên kiến thức nền tảng của bạn.
-    Hãy giữ câu trả lời ngắn gọn và trả lời bằng tiếng Việt.
-    Câu hỏi: {question}
+     Nếu không tìm thấy thông tin phù hợp hãy:
+     - Thông báo cho người dùng biết bạn không tìm thấy thông tin.
+     - Đưa ra câu trả lời dựa trên kiến thức nền tảng của bạn.
+     Hãy giữ câu trả lời ngắn gọn và trả lời bằng tiếng Việt.
+     Câu hỏi: {question}
 
-    Câu trả lời:
+     Câu trả lời:
      ```
 
 ![ss drawio](https://github.com/user-attachments/assets/89b1c13d-695d-4e77-8b4e-741fecfaf809)
