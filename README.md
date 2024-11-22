@@ -8,7 +8,7 @@ PDF QA là một dự án dựa trên Python được thiết kế để tạo �
 1. **Hỗ trợ các loại file**:  
    - PDF (bao gồm cả các file scanned).  
    - Docx.  
-   - TXT.  
+
 
 2. **Trích xuất văn bản**:  
    - **PyMuPDF** được sử dụng để trích xuất văn bản từ file PDF.  
@@ -60,3 +60,4 @@ PDF QA là một dự án dựa trên Python được thiết kế để tạo �
    ```
 
 ## Video Demo
+https://imgur.com/a/mLhemwz 
