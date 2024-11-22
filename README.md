@@ -49,6 +49,14 @@ PDF QA là một dự án dựa trên Python được thiết kế để tạo �
 
 ### Cài đặt các thư viện phụ thuộc
 
-1. **Cài đặt các phụ thuộc** từ file `requirements.txt`:
+ **Cài đặt các phụ thuộc** từ file `requirements.txt`:
    ```bash
    pip install -r requirements.txt
+   ```
+
+### Chạy ứng dụng
+   ```bash
+   chainlit run app.py
+   ```
+
+## Video Demo
